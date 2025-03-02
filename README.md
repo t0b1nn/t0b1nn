@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t0b1nn
-- 👀 I’m interested in programming, gaming like fall guys and mc, food
-- 🌱 I’m currently learning pygame, html css and javascript
+- 👀 I’m interested in programming, fall guys and mc, food
+- 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me email: vadakkeltobin@gmail.com
 - 😄 Pronouns: he/him
